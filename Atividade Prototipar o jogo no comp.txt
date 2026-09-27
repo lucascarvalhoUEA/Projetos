@@ -1,0 +1,21 @@
+"Atividade: Prototipar o jogo no computador
+
+
+
+Descrição:
+
+- Usando o resultado dos dois dados rolados: "pessoa caindo de paraquedas" e "face de alien" (conforme o que vejo na imagem"
+
+
+
+Implemente:
+
+- Crie um jogo 2D inédito a partir do resultado dos dados rolados. Implemente em Godot 4 ou uma ferramenta como Game Maker, etc.
+
+
+
+Observação:
+
+- O importante é que o protótipo seja jogável e divertido. Um jogador aleatório tem de conseguir jogar sem o jogo ser explicado para ele. Tudo tem de ser intuitivo.
+
+- Pode-se pegar artes daqui "https://itch.io/" ou daqui "https://opengameart.org/". Sempre indique a fonte da arte."
